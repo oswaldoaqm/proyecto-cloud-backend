@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+*.tar
+ms1-features/venv/
+ms3-logs/node_modules/
